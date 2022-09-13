@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer science student</h3>
 
-![Header](https://i.giphy.com/media/10CopumcRWLMYM/giphy-downsized-large.gif)
+![Header](https://github.com/edemkaaa/edemkaaa/blob/main/assets/giphy.gif)
 
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
