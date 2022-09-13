@@ -1,4 +1,4 @@
-![Header](https://github.com/edemkaaa/edemkaaa/blob/main/assets/giphy.webp)
+![Header](https://github.com/edemkaaa/edemkaaa/blob/main/assets/giphy.gif)
 
 About me
 
