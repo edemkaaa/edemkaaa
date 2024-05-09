@@ -7,7 +7,7 @@ Beginner mobile developer
 Учусь на 3 курсе в Крымском инженерно-педагогическом университете на факультете прикладной информатики.
 
 * 🌍  I'm based in Simferopol
-* ✉️  You can contact me at [telegram: @edemasanov](mailto:telegram: @edemasanov )
+* ✉️  You can contact me at [telegram: @edemasanov]
 * 🧠  I'm learning Flutter
 
 <a href="https://www.github.com/edemkaaa" target="_blank" rel="noreferrer"><img
