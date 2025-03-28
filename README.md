@@ -1,36 +1,66 @@
-Hi 👋 My name is Edem Asanov
-============================
+<h1 align="center">Hi 👋, I'm Edem Asanov</h1>
+<h3 align="center">Backend Developer | NestJS | TypeScript | PostgreSQL</h3>
 
-Beginner backend developer
--------------------------
-
-Учусь на 4 курсе в Крымском инженерно-педагогическом университете на факультете прикладной информатики.
-
-* 🌍  I'm based in Simferopol
-* ✉️  You can contact me at [telegram: @edemasanov]
-* 🧠  I'm learning Flutter
-
-<a href="https://www.github.com/edemkaaa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/edemkaaa?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/edemkaaa?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=edemkaaa&label=Profile%20views&color=6366f1&style=flat" />
 </p>
 
+---
 
-### Socials
+### 🚀 About Me
+- 🏠 Based in **Simferopol**
+- 💻 Backend Developer working with **NestJS, TypeORM, PostgreSQL**
+- 🧑‍💻 I write in **JavaScript & TypeScript**
+- 📫 Contact me on **[Telegram: @edemasanov](https://t.me/edemasanov)**
 
-<p align="left"> <a href="https://www.github.com/edemkaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/edemkaaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@edemkaaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 🛠️ Tech Stack
 
-<b>My GitHub Stats</b>
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  </a>
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="40" height="40" alt="TypeORM" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  </a>
+  <a href="https://docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  </a>
+</p>
 
-<a href="http://www.github.com/edemkaaa"><img src="https://github-readme-stats.vercel.app/api?username=edemkaaa&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="edemkaaa's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/edemkaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkaaa&stroke=64748b&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edemkaaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edemkaaa&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemkaaa&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/edemkaaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemkaaa&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🌍 Connect with Me
+<p align="left">
+  <a href="https://github.com/edemkaaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://t.me/edemasanov" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram" />
+  </a>
+  <a href="http://www.instagram.com/edemkaaaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+</p>
